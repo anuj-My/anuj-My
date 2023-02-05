@@ -1,8 +1,8 @@
-<!-- [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://rishavchanda.io) -->
+[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj-my&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-my" /> </p>
+<p align="left"> </p>
 
 - 🌱 I’m currently learning **react**
 
