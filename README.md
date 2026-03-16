@@ -4,10 +4,6 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> -->
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=anuj-my&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-my" /> </p>
 
-- 🌱 I’m currently learning **react**
-
-- 💬 Ask me about **Frontend Development**
-
 - 📫 How to reach me **anuj89806@gmail.com**
 
 
